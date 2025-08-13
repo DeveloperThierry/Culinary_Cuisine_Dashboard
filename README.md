@@ -2,9 +2,11 @@
 
 ## 🏷️ Demo
 
-![Recipe Search Page](demo/recipe_search_page.png)  
-![Recipe Details Page](demo/recipe_details_page.png)  
-![Favorites Page](demo/favorites_page.png)
+![Demo Images](public/assets/img1.png)  
+![Demo Images](public/assets/img2.png)  
+![Demo Images](public/assets/img3.png)  
+![Demo Images](public/assets/img4.png)  
+![Demo Images](public/assets/img5.png)  
 
 ## 📜 Description
 
