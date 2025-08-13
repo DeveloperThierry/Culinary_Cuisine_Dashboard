@@ -1,7 +1,7 @@
 # 🎉 Culinary Compass
 
 ## 🏷️ Demo
-
+https://github.com/user-attachments/assets/8a00e222-50fc-4d17-8e2e-5a1b44d3457c
 ![Demo Images](public/assets/img1.png)  
 ![Demo Images](public/assets/img2.png)  
 ![Demo Images](public/assets/img3.png)  
